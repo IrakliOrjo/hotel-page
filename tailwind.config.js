@@ -2,9 +2,10 @@ module.exports = {
   content: ['./src/**/*.{js,jsx,ts,tsx}'],
   theme: {
     fontFamily: {
-      primary: 'Gilda Display',
-      secondary: 'Barlow',
-      tertiary: 'Barlow Condensed',
+      primary: 'Open Sans',
+      secondary: 'Lato',
+      tertiary: 'Lato',
+
     },
     container: {
       padding: {
